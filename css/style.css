@@ -72,6 +72,12 @@ h3{
 	font-size: 25px;
 	margin-bottom: 50px;
 }
+.center h3 {
+	color: white;
+	font-size: 25px;
+	margin-bottom: 50px;
+    text-align: center;
+}
 h4{
 	color: #fcfc;
 	letter-spacing: 2px;
@@ -301,7 +307,4 @@ footer p:nth-child(2){
 	color:#f9004d;
 	bottom: 35px;
 	font-size: 14px; 
-}
-.center h3 {
-    text-align: center;
 }
